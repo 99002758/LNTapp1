@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LNTapp</string>
+    <string name="entername">Enter name</string>
+    <string name="enter_password">Enter password</string>
+    <string name="remember_pwd">Remember Password</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+</resources>
